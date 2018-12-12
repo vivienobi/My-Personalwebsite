@@ -1,0 +1,23 @@
+h3{
+	font-size: 100px;
+	color: purple
+}
+.v1{
+	height: 200px;
+	width: 1000px;
+	background: red;
+
+}
+.avo{
+	height: 200px;
+	width: 1000px;
+	background: green;
+}
+.v2{
+	height: 200px;
+	width: 1000px;
+	background: yellow;
+	border-radius: 50%;
+	border:10px solid black;
+
+}
